@@ -166,7 +166,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 .link__image {
 	border: none;
-	width: 100%;
+	width: 100px;
 }
 
 img {
